@@ -180,14 +180,3 @@ Organizations can use survey insights to understand workforce trends and market 
 
 ![Data Professional Survey Dashboard](https://github.com/swapnil0901/Data-Professional-Survey-Dashboard/blob/main/Data%20Professional%20Survey%20.png)
 
----
-
-## 🔗 Future Improvements
-
-- Add more survey years for trend analysis.
-- Include interactive filtering by experience level.
-- Add machine learning models for salary prediction.
-
----
-
-⭐ If you found this project useful, feel free to explore and connect!
